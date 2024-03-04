@@ -1,0 +1,178 @@
+{
+  "version": "https://schema.openattestation.com/2.0/schema.json",
+  "data": {
+    "id": "a7a56be7-5cf3-436d-8f32-abe9678a0b76:string:251 AY23 016",
+    "issuedOn": "6190e5d0-31d4-4d08-8a0f-4fd05e60e5fb:string:2024-02-01T00:00:00+08:00",
+    "attainmentDate": "eab837e8-e565-4114-b0f3-e78171134fc8:string:2024-01-31T00:00:00+08:00",
+    "admissionDate": "4637949a-abce-48e0-830b-8b24b61c0d87:string:2021-08-10T00:00:00+08:00",
+    "name": "ead3d512-f7ba-44bb-adc8-8179325b0126:string:MASTER OF MEDIA & COMMUNICATION",
+    "cumulativeScore": "35fdb04d-34a3-4e1e-aa1f-2cb61a9f3d12:number:4.35",
+    "recipient": {
+      "name": "08dd0658-5521-40d9-aafd-9bdf80b6e757:string:SENTHIL KUMARAN S/O KUNASEGARAN",
+      "nric": "f5aced4c-c259-4996-95b4-357d0d8665ab:string:S8413073G",
+      "studentId": "07183a5a-7341-4347-9a07-7cc627e7f02f:string:G2103870K",
+      "dob": "aade8d3c-b9e0-43b2-8792-f5b4a61f1615:string:17 MAY 1984",
+      "email": "3cfb24af-6341-469f-bf0e-eb9f4e3363a2:string:SENT0011@e.ntu.edu.sg",
+      "idType": "d2337707-9624-4028-9fe8-be2679fef4d9:string:SP"
+    },
+    "$template": {
+      "name": "728ca08d-6633-44a3-bd36-fb65e2f57e9a:string:NTU-2024-OAS-PG-COURSEWORK-1",
+      "type": "4a7cb016-af98-43b1-b831-bc2228532d50:string:EMBEDDED_RENDERER",
+      "url": "e91e4766-95cc-4efc-be43-cb3b7892d0f2:string:https://render.ntu.edu.sg"
+    },
+    "issuers": [
+      {
+        "id": "6159cd80-5332-42f4-bffa-e18f864d5056:string:did:ethr:0x3d12104c4d77570636ae36d1cffc1cf563c781bb",
+        "issuerName": "6d340b7c-97cf-467f-b82b-c86736a7c8f4:string:Nanyang Technological University",
+        "name": "963d4138-e3bd-4366-a329-c1fa7eb61bce:string:Nanyang Technological University",
+        "revocation": {
+          "type": "1335eb23-abd1-452e-81d7-df1ddf121744:string:REVOCATION_STORE",
+          "location": "c70d6178-79ba-4f7d-a9fe-27e43ff59d9b:string:0x61783202d023fd08dcc7d7ca8a196697c46c9d57"
+        },
+        "identityProof": {
+          "type": "1e92a8a9-f463-4e12-b033-eedf6eb6d78e:string:DNS-DID",
+          "key": "505552ba-56cd-4611-acec-5d0607823143:string:did:ethr:0x3d12104c4d77570636ae36d1cffc1cf563c781bb#controller",
+          "location": "f2d9ff19-e814-4b6f-b270-a197e70ac601:string:ntu.edu.sg"
+        }
+      }
+    ],
+    "qualificationLevel": [
+      {
+        "frameworkName": "d302bc04-5cd3-46e9-8f62-e4f1b79106dc:string:singapore/ssec-eqa",
+        "frameworkVersion": "cbb7e3a4-17dd-4c62-9a13-5404e2075372:string:2020",
+        "code": "a276e882-5b29-488d-a63b-20304bd1aeaf:string:91",
+        "description": "36c696f8-707d-4266-be54-51351fb907a8:string:Master's degree or equivalent"
+      }
+    ],
+    "transcript": [
+      {
+        "name": "4309a6c1-d5f9-4010-8aa0-2f447f5aa885:string:FUNDAMENTALS IN STRATEGIC COMMUNICATION",
+        "courseCode": "0f160352-a58c-445f-8b0c-d9ab9a7030f6:string:A6359",
+        "grade": "4ee03163-a315-4104-9646-afc8add2c957:string:B+",
+        "score": "aad2b690-cdeb-4f5c-9090-b9721fbc9284:string:4.00",
+        "courseCredit": "6159c796-6428-45ca-b4ac-18fdf94ad54d:string:3.0",
+        "academicYear": "1e854ce6-751c-4e6d-9320-84fe89e6b545:string:ACADEMIC YEAR 2021-2022",
+        "semester": "246a5f91-47fb-4ae3-a9d4-886f9edc5058:string:SEMESTER 1"
+      },
+      {
+        "name": "eb280e0e-271a-4d21-95e0-0453ea4d1c78:string:COMMUNICATING CORPORATE NARRATIVES WITH TRANSMEDIA",
+        "courseCode": "ad42cdad-15a6-4ec1-b56b-5b23d76dc488:string:A6369",
+        "grade": "6c16199f-5a29-4937-88a5-997299f99afd:string:A+",
+        "score": "879fdd40-5f50-4d86-93aa-b763bc2a4e96:string:5.00",
+        "courseCredit": "5a42d892-1b60-483c-91d9-d3dec8cdac8a:string:3.0",
+        "academicYear": "2487aa3b-8660-41bf-b0ba-2a7004c5e16a:string:ACADEMIC YEAR 2021-2022",
+        "semester": "487a55a6-883f-4bfe-835c-6d40c70a52b5:string:SEMESTER 1"
+      },
+      {
+        "name": "17d54f1b-91cb-48f7-af4a-efdbd89b6d20:string:COMMUNICATION, TECHNOLOGY & SOCIETY",
+        "courseCode": "33dacde7-4fcb-4114-97d4-ba9364eac1c9:string:A6301",
+        "grade": "7557d89f-76e5-41c5-9371-7199cfb4b49e:string:A+",
+        "score": "0e3c386b-6956-4b25-88d9-b0494371d6a2:string:5.00",
+        "courseCredit": "ada0632d-a03e-49ff-aa2c-ad52feb3985d:string:3.0",
+        "academicYear": "9c1152d6-cff1-434a-9cb3-fafe8330c279:string:ACADEMIC YEAR 2021-2022",
+        "semester": "9939ae62-65f8-4803-bfa6-c37121d15de9:string:SEMESTER 2"
+      },
+      {
+        "name": "6f16aca0-44aa-42d1-a2f8-988a16e0ae00:string:PUBLIC AFFAIRS COMMUNICATION",
+        "courseCode": "a3b017fa-0453-439f-9d46-0e677fc8ae9c:string:A6365",
+        "grade": "f21fc2c9-ce17-4bd3-b3f6-0abb6a53e067:string:A-",
+        "score": "758aca63-e692-49cd-bdbc-ced0f3dc7418:string:4.50",
+        "courseCredit": "0b17615f-567a-457c-83ce-c8a95d621707:string:3.0",
+        "academicYear": "37e90077-d854-42bc-896b-ae8eeabb2644:string:ACADEMIC YEAR 2021-2022",
+        "semester": "b693bc55-cbaa-4aca-a611-f7ed5b98b38a:string:SEMESTER 2"
+      },
+      {
+        "name": "7c3ac395-3dd9-4dc5-965d-5276550e053c:string:COMMUNICATION ETHICS & GOVERNANCE",
+        "courseCode": "2f142486-7e7d-46da-9154-f7d4a8bb8363:string:MC6303",
+        "grade": "cc94c95d-9d68-4288-9085-b0dc52758380:string:A+",
+        "score": "6074da09-ebbe-47fa-afa8-7528d133a5fc:string:5.00",
+        "courseCredit": "d449c9ee-8528-4d60-9915-5a264a07f6f4:string:3.0",
+        "academicYear": "d45fe17d-f085-47bc-8b91-38b2eb7846eb:string:ACADEMIC YEAR 2022-2023",
+        "semester": "d872d577-cda2-4598-ac97-a01c7adfc8c9:string:SEMESTER 1"
+      },
+      {
+        "name": "b4724d2a-3a4b-4acb-8474-a3dba11a28e5:string:DIGITAL MARKETING TRANSFORMATION",
+        "courseCode": "24931fa2-aa73-448c-b647-2975b7f1ed2b:string:MC6368",
+        "grade": "3b413c81-0b4f-4227-acaa-f08cda864c18:string:B+",
+        "score": "717938f2-e6de-46da-89fd-dc0d16bb7e2b:string:4.00",
+        "courseCredit": "5295de25-8f86-46ab-aefe-81ec2dc7f300:string:3.0",
+        "academicYear": "b57bccf5-29fb-46e2-8f86-c179e0d6666e:string:ACADEMIC YEAR 2022-2023",
+        "semester": "13cb8c27-dc1b-45d7-bce8-d0769f71f794:string:SEMESTER 1"
+      },
+      {
+        "name": "fe62f68f-ac8f-48b0-b87d-822ee07d8e91:string:COMMUNICATION RESEARCH & DATA ANALYSIS",
+        "courseCode": "780f0766-bd42-4f01-8c86-799552931d09:string:MC6302",
+        "grade": "800f157d-ad8c-4486-93cc-984216e230dc:string:B",
+        "score": "a4772a2c-41eb-4dcc-b814-42c89979540a:string:3.50",
+        "courseCredit": "9491c920-af0e-4a54-b269-45e4acd5fdc8:string:3.0",
+        "academicYear": "45b45981-64b2-4ac8-8254-c235632581a2:string:ACADEMIC YEAR 2022-2023",
+        "semester": "e1343e28-b34b-465f-9b10-4d26a5cb044d:string:SEMESTER 2"
+      },
+      {
+        "name": "4fb903a2-a249-4ef7-b6b0-e62188f03e72:string:MEDIA LEADERSHIP & MANAGEMENT",
+        "courseCode": "caa2d831-a6b9-495c-9427-28182a035e56:string:MC6321",
+        "grade": "1c1d8743-c1c2-45b4-bcda-a4063d9b5b32:string:B",
+        "score": "6d6593db-f5dc-4c73-a762-c0790990d986:string:3.50",
+        "courseCredit": "acf3a699-ba3a-4fb5-9325-ae7b1229cedf:string:3.0",
+        "academicYear": "ce437a83-8418-4e29-a49f-d9336ddfd98a:string:ACADEMIC YEAR 2022-2023",
+        "semester": "7be32cce-fe7f-48c0-abb3-bd991c1b9054:string:SEMESTER 2"
+      },
+      {
+        "name": "ea0ac726-3241-4a78-af35-b55adc10bc65:string:MANAGING REPUTATION, CRISIS & MEDIA RELATIONS",
+        "courseCode": "1d63179f-cb71-48f8-a25a-26b4db2fc87f:string:MC6361",
+        "grade": "8ce59ae3-c26f-45ef-a9f5-8d68a1ee0e44:string:B+",
+        "score": "4b0232c2-6a9f-4965-b981-c02e0b12c4f0:string:4.00",
+        "courseCredit": "7c8253ed-77f4-4300-8417-9df67807858f:string:3.0",
+        "academicYear": "253a62f2-a632-4ca7-850c-d5065ad5e909:string:ACADEMIC YEAR 2023-2024",
+        "semester": "3de2ff44-9b7f-49de-bbdd-1a5319c92015:string:SEMESTER 1"
+      },
+      {
+        "name": "16768ee6-b92a-4e22-a049-216560e80303:string:STRATEGIC BRANDING FOR LEADERS",
+        "courseCode": "3729bb64-d057-4a02-92ea-e85962449a38:string:MC6370",
+        "grade": "b2af9d71-b2a4-4e0b-a045-a76cf4a04e17:string:A",
+        "score": "0b032a74-2c51-4f8d-bba5-6fc360965a69:string:5.00",
+        "courseCredit": "9ae15f62-6d88-4fe1-a2e7-b1bf92d8fe09:string:3.0",
+        "academicYear": "50d300db-96f9-401b-8e5d-0039713127cb:string:ACADEMIC YEAR 2023-2024",
+        "semester": "692bb29a-4fe8-4002-8c84-e4e2f6faacc7:string:SEMESTER 1"
+      }
+    ],
+    "additionalData": {
+      "totalAU": "e0733948-32e8-486c-8727-880e60a4add6:string:30.0",
+      "academicYear": [
+        "309fe285-a464-4a1c-ab69-cc65a6a53265:string:ACADEMIC YEAR 2021-2022",
+        "b6ead8f9-113c-4690-abd8-07c435d7100d:string:ACADEMIC YEAR 2022-2023",
+        "68a22241-3917-4551-826c-b6a4e164e9fa:string:ACADEMIC YEAR 2023-2024"
+      ],
+      "courseTitle": [
+        "e46335ce-f7af-494f-a543-ce47c794e5f5:string:Master of Media & Communication"
+      ]
+    }
+  },
+  "schema": "https://raw.githubusercontent.com/OpenCerts/open-certificate/master/schema/transcripts/2.0/schema.json",
+  "signature": {
+    "type": "SHA3MerkleProof",
+    "targetHash": "3dafe5a939b603141b99c8f61acb55c4df67d736d5f328b7eff26d9a305dfce1",
+    "proof": [
+      "91e6c0cb62c8b592df4c74916de1f736eb70a5990caf27c3c50a614c797e665a",
+      "5dc3e758e1bc5a8797aba7f0acc5ed259ef15e59e3aa89c323b06a3b1285cc72",
+      "ab3dac4c85b4d9b5c1ab808079812790eb122752cd708e85aa986eb6b135484e",
+      "703263ced605e5f7ddde192d3c8712a1e722e4f002803df964bdbf755600cf71",
+      "ee5b75ff4e1ee91048a92492c74fe68184e653523d72a9003a900f554d2a8a2a",
+      "0e4b56c072fd4f729348493c55bc475f42ee5175436c06b6d8d4ee5f2157d92b",
+      "eb27ec9603ebf7e2d652d5b1ee50d71d3f051bca92f453aedad73f9b3dc9a50d",
+      "e74efb6f44e9edd14f6e1fcad3f7245c462da99c29015e8b54b608a4168164b0",
+      "896912d750cb51f548a101f1c84f4905a53c164bded8799235adbbea0b820a7e",
+      "e2597dab99705457ddd21bec3d77bcae81a5d27a39c184277075e8fb9b5e11ce"
+    ],
+    "merkleRoot": "4d2d352ba2689a9babf00514220c98ada39728fae0010181ff8e13db7285aefd"
+  },
+  "proof": [
+    {
+      "type": "OpenAttestationSignature2018",
+      "created": "2024-02-07T01:21:52.506Z",
+      "proofPurpose": "assertionMethod",
+      "verificationMethod": "did:ethr:0x3d12104c4d77570636ae36d1cffc1cf563c781bb#controller",
+      "signature": "0x897b2d9ef27fbc8d3262f0b5fe0665433edc5bb6fd75a650026bd33eda0a1e6a532f1f1a3bc67064d82d835a70d468fd88699bd20bf3e4a44b7be98a5eb1a1bf1c"
+    }
+  ]
+}
